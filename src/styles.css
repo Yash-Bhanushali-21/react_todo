@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  height: 100%;
+}
+
+Button {
+  margin: 3px;
+}
+/*border transit props */
+
+/*border transit close */
+.propContainer {
+}
+/* the padding between cols will need to be modified
+in repsonsive section */
+
+.cols {
+  padding: 0 65px;
+}
